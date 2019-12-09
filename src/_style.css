@@ -1,0 +1,9 @@
+body {
+  background: darkred;
+  color: orange;
+}
+
+::placeholder {
+    color: gray
+}
+
